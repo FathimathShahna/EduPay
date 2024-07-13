@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622491691114",
+    "project_id": "feemanagment-320c5",
+    "storage_bucket": "feemanagment-320c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622491691114:android:e7d8feba08e804698a8213",
+        "android_client_info": {
+          "package_name": "com.example.feesmanagment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFkYIjxsdP7B63g04ud-Zhoii-5bmeRS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
